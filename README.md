@@ -29,9 +29,6 @@ Welcome to my **Algorithms Repository 2**! This repository contains a collection
   - **Graham's Scan**  
   - **Line Intersection**
 
-- **Search & Sorting Problems 🔢**
-  - **Create Binary Search**
-
 ---
 
 ### **📖 What I Learned**
